@@ -1,3 +1,4 @@
+/*Prints a tick shape when run */
 #include <stdio.h>
 
 int main(void)
@@ -10,4 +11,5 @@ int main(void)
     printf("  * \n");
 
     return 0;
+
 }
